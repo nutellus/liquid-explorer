@@ -1,1 +1,1 @@
-96b89de8dcdc3e0036c95680cfdb2d86de3b93c41dc7b17dbe38ec83edf21461  LiquidExplorer-win-x64.zip
+37e9473bed18079c899ecaa7afb92046f19dafaf812fe708dc28e593afe774ef  LiquidExplorer-0.1.1-alpha.2-win-x64.zip
